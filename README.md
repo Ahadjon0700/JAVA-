@@ -4,6 +4,14 @@
 
 ![class](https://github.com/Ahadjon0700/JAVA-/blob/main/png/person.png)
 
+### Класс Main
+
+![class](https://github.com/Ahadjon0700/JAVA-/blob/main/png/class%20Main.png)
+
+### Класс Graphics
+
+![class](https://github.com/Ahadjon0700/JAVA-/blob/main/png/class%20Graphics.png)
+
 ### Создание таблицы Person:
 
 ![person](https://github.com/Ahadjon0700/JAVA-/blob/main/png/table%20person.png)
